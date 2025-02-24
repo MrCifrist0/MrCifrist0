@@ -12,6 +12,7 @@ In a world where data is currency and innovation flows like neon lights through 
 ## 🌐 Projects in the Shadows
 
 - **[Projects Cluster 🎲](#)**: A digital playground where I experiment with React to create interfaces of tomorrow.
+- **[Blackjack Counter ⚜️🃏](#)**: Trying to win over the casino $$$.
 - **[Project Bragi 🗣️](#)**: In ancient times, Bragi wove words into stories, captivating gods and mortals alike. Now, **Project Bragi** carries that legacy forward.
 - **[Task Automation AI 🤖](#)**: Automating repetitive tasks, because why should machines have all the fun?
 - **[Web3 Exploration 🕸️](#)**: A journey into the decentralized web, where blockchain and crypto rewrite the rules.
